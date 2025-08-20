@@ -1,0 +1,17 @@
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/bin/Debug/net8.0/EducationalPlatform.Infrastructure.deps.json
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/bin/Debug/net8.0/EducationalPlatform.Infrastructure.runtimeconfig.json
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/bin/Debug/net8.0/EducationalPlatform.Infrastructure.dll
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/bin/Debug/net8.0/EducationalPlatform.Infrastructure.pdb
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/bin/Debug/net8.0/EducationalPlatform.Data.dll
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/bin/Debug/net8.0/EducationalPlatform.Data.pdb
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/obj/Debug/net8.0/EducationalPlatform.Infrastructure.csproj.AssemblyReference.cache
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/obj/Debug/net8.0/EducationalPlatform.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/obj/Debug/net8.0/EducationalPlatform.Infrastructure.AssemblyInfoInputs.cache
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/obj/Debug/net8.0/EducationalPlatform.Infrastructure.AssemblyInfo.cs
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/obj/Debug/net8.0/EducationalPlatform.Infrastructure.csproj.CoreCompileInputs.cache
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/obj/Debug/net8.0/Educatio.F22A3624.Up2Date
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/obj/Debug/net8.0/EducationalPlatform.Infrastructure.dll
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/obj/Debug/net8.0/refint/EducationalPlatform.Infrastructure.dll
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/obj/Debug/net8.0/EducationalPlatform.Infrastructure.pdb
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/obj/Debug/net8.0/EducationalPlatform.Infrastructure.genruntimeconfig.cache
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Infrastructure/obj/Debug/net8.0/ref/EducationalPlatform.Infrastructure.dll

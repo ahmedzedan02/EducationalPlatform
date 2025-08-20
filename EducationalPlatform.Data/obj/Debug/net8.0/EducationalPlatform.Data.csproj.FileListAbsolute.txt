@@ -1,0 +1,11 @@
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Data/bin/Debug/net8.0/EducationalPlatform.Data.deps.json
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Data/bin/Debug/net8.0/EducationalPlatform.Data.dll
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Data/bin/Debug/net8.0/EducationalPlatform.Data.pdb
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Data/obj/Debug/net8.0/EducationalPlatform.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Data/obj/Debug/net8.0/EducationalPlatform.Data.AssemblyInfoInputs.cache
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Data/obj/Debug/net8.0/EducationalPlatform.Data.AssemblyInfo.cs
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Data/obj/Debug/net8.0/EducationalPlatform.Data.csproj.CoreCompileInputs.cache
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Data/obj/Debug/net8.0/EducationalPlatform.Data.dll
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Data/obj/Debug/net8.0/refint/EducationalPlatform.Data.dll
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Data/obj/Debug/net8.0/EducationalPlatform.Data.pdb
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Data/obj/Debug/net8.0/ref/EducationalPlatform.Data.dll

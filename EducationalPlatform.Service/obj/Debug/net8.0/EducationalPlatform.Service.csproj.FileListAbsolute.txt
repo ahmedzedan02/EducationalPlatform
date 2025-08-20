@@ -1,0 +1,17 @@
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/bin/Debug/net8.0/EducationalPlatform.Service.deps.json
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/bin/Debug/net8.0/EducationalPlatform.Service.dll
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/bin/Debug/net8.0/EducationalPlatform.Service.pdb
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/bin/Debug/net8.0/EducationalPlatform.Data.dll
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/bin/Debug/net8.0/EducationalPlatform.Infrastructure.dll
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/bin/Debug/net8.0/EducationalPlatform.Data.pdb
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/bin/Debug/net8.0/EducationalPlatform.Infrastructure.pdb
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/obj/Debug/net8.0/EducationalPlatform.Service.csproj.AssemblyReference.cache
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/obj/Debug/net8.0/EducationalPlatform.Service.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/obj/Debug/net8.0/EducationalPlatform.Service.AssemblyInfoInputs.cache
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/obj/Debug/net8.0/EducationalPlatform.Service.AssemblyInfo.cs
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/obj/Debug/net8.0/EducationalPlatform.Service.csproj.CoreCompileInputs.cache
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/obj/Debug/net8.0/Educatio.CC23CE39.Up2Date
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/obj/Debug/net8.0/EducationalPlatform.Service.dll
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/obj/Debug/net8.0/refint/EducationalPlatform.Service.dll
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/obj/Debug/net8.0/EducationalPlatform.Service.pdb
+/home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Service/obj/Debug/net8.0/ref/EducationalPlatform.Service.dll
