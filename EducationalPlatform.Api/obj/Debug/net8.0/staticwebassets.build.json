@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "oWe2dumgeR/tVrO6kL479tn6W5vSGK4Pa/bFgnTmM64=",
-  "Source": "EducationalPlatform.Api",
-  "BasePath": "_content/EducationalPlatform.Api",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"cRnB5TulcUbIPvp6FWgu3Sritgv8qznaqcaebMYB5nk=","Source":"EducationalPlatform.Api","BasePath":"_content/EducationalPlatform.Api","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

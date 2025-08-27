@@ -17,3 +17,15 @@
 /home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Core/obj/Debug/net8.0/refint/EducationalPlatform.Core.dll
 /home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Core/obj/Debug/net8.0/EducationalPlatform.Core.pdb
 /home/ahmed-zedan/EducationalPlatform.Api/EducationalPlatform.Core/obj/Debug/net8.0/ref/EducationalPlatform.Core.dll
+G:\projects\EducationalPlatform\EducationalPlatform.Core\obj\Debug\net8.0\EducationalPlatform.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\EducationalPlatform\EducationalPlatform.Core\obj\Debug\net8.0\EducationalPlatform.Core.AssemblyInfoInputs.cache
+G:\projects\EducationalPlatform\EducationalPlatform.Core\obj\Debug\net8.0\EducationalPlatform.Core.AssemblyInfo.cs
+G:\projects\EducationalPlatform\EducationalPlatform.Core\obj\Debug\net8.0\EducationalPlatform.Core.csproj.CoreCompileInputs.cache
+G:\projects\EducationalPlatform\EducationalPlatform.Core\obj\Debug\net8.0\EducationalPlatform.Core.sourcelink.json
+G:\projects\EducationalPlatform\EducationalPlatform.Core\obj\Debug\net8.0\EducationalPlatform.Core.dll
+G:\projects\EducationalPlatform\EducationalPlatform.Core\obj\Debug\net8.0\refint\EducationalPlatform.Core.dll
+G:\projects\EducationalPlatform\EducationalPlatform.Core\obj\Debug\net8.0\EducationalPlatform.Core.pdb
+G:\projects\EducationalPlatform\EducationalPlatform.Core\bin\Debug\net8.0\EducationalPlatform.Core.deps.json
+G:\projects\EducationalPlatform\EducationalPlatform.Core\bin\Debug\net8.0\EducationalPlatform.Core.dll
+G:\projects\EducationalPlatform\EducationalPlatform.Core\bin\Debug\net8.0\EducationalPlatform.Core.pdb
+G:\projects\EducationalPlatform\EducationalPlatform.Core\obj\Debug\net8.0\ref\EducationalPlatform.Core.dll

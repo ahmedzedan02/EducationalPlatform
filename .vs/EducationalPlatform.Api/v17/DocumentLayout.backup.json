@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\projects\\EducationalPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74655F04-7B51-43C1-9360-9EC37D32205D}|EducationalPlatform.Api\\EducationalPlatform.Api.csproj|g:\\projects\\educationalplatform\\educationalplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74655F04-7B51-43C1-9360-9EC37D32205D}|EducationalPlatform.Api\\EducationalPlatform.Api.csproj|solutionrelative:educationalplatform.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74655F04-7B51-43C1-9360-9EC37D32205D}|EducationalPlatform.Api\\EducationalPlatform.Api.csproj|g:\\projects\\educationalplatform\\educationalplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74655F04-7B51-43C1-9360-9EC37D32205D}|EducationalPlatform.Api\\EducationalPlatform.Api.csproj|solutionrelative:educationalplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\Migrations\\20250827004339_addProjectModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EducationalPlatform.Infrastructure\\Migrations\\20250827004339_addProjectModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|g:\\projects\\educationalplatform\\educationalplatform.core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|solutionrelative:educationalplatform.core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|g:\\projects\\educationalplatform\\educationalplatform.core\\entities\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|solutionrelative:educationalplatform.core\\entities\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|g:\\projects\\educationalplatform\\educationalplatform.core\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|solutionrelative:educationalplatform.core\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|g:\\projects\\educationalplatform\\educationalplatform.core\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|solutionrelative:educationalplatform.core\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|g:\\projects\\educationalplatform\\educationalplatform.core\\entities\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|solutionrelative:educationalplatform.core\\entities\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|g:\\projects\\educationalplatform\\educationalplatform.core\\entities\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|solutionrelative:educationalplatform.core\\entities\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|g:\\projects\\educationalplatform\\educationalplatform.core\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|solutionrelative:educationalplatform.core\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\Migrations\\20250827004030_addProjectModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EducationalPlatform.Infrastructure\\Migrations\\20250827004030_addProjectModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379D2F5-20A8-4600-876C-46E2C1D88519}|EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj|g:\\projects\\educationalplatform\\educationalplatform.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6379D2F5-20A8-4600-876C-46E2C1D88519}|EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj|solutionrelative:educationalplatform.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379D2F5-20A8-4600-876C-46E2C1D88519}|EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj|g:\\projects\\educationalplatform\\educationalplatform.infrastructure\\dependencyinjectionconfig\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6379D2F5-20A8-4600-876C-46E2C1D88519}|EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj|solutionrelative:educationalplatform.infrastructure\\dependencyinjectionconfig\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6379D2F5-20A8-4600-876C-46E2C1D88519}|EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj|g:\\projects\\educationalplatform\\educationalplatform.infrastructure\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6379D2F5-20A8-4600-876C-46E2C1D88519}|EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj|solutionrelative:educationalplatform.infrastructure\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|g:\\projects\\educationalplatform\\educationalplatform.core\\entities\\lectureexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|solutionrelative:educationalplatform.core\\entities\\lectureexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|g:\\projects\\educationalplatform\\educationalplatform.core\\entities\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}|EducationalPlatform.Core\\EducationalPlatform.Core.csproj|solutionrelative:educationalplatform.core\\entities\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250827004339_addProjectModels.cs",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\Migrations\\20250827004339_addProjectModels.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform.Infrastructure\\Migrations\\20250827004339_addProjectModels.cs",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\Migrations\\20250827004339_addProjectModels.cs",
+              "RelativeToolTip": "EducationalPlatform.Infrastructure\\Migrations\\20250827004339_addProjectModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T00:43:39.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250827004030_addProjectModels.cs",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\Migrations\\20250827004030_addProjectModels.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform.Infrastructure\\Migrations\\20250827004030_addProjectModels.cs",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\Migrations\\20250827004030_addProjectModels.cs",
+              "RelativeToolTip": "EducationalPlatform.Infrastructure\\Migrations\\20250827004030_addProjectModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T00:40:30.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Api\\Program.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform.Api\\Program.cs",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Api\\Program.cs",
+              "RelativeToolTip": "EducationalPlatform.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T00:18:55.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LectureExam.cs",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\LectureExam.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform.Core\\Entities\\LectureExam.cs",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\LectureExam.cs",
+              "RelativeToolTip": "EducationalPlatform.Core\\Entities\\LectureExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T23:58:06.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Answer.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform.Core\\Entities\\Answer.cs",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Answer.cs",
+              "RelativeToolTip": "EducationalPlatform.Core\\Entities\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T23:46:31.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Question.cs",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Question.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform.Core\\Entities\\Question.cs",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Question.cs",
+              "RelativeToolTip": "EducationalPlatform.Core\\Entities\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T23:44:51.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform.Infrastructure\\ApplicationUser.cs",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\ApplicationUser.cs",
+              "RelativeToolTip": "EducationalPlatform.Infrastructure\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T23:27:40.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\DependencyInjectionConfig\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform.Infrastructure\\DependencyInjectionConfig\\DependencyInjection.cs",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\DependencyInjectionConfig\\DependencyInjection.cs",
+              "RelativeToolTip": "EducationalPlatform.Infrastructure\\DependencyInjectionConfig\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T22:55:20.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "EducationalPlatform.Api\\appsettings.json",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Api\\appsettings.json",
+              "RelativeToolTip": "EducationalPlatform.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T22:40:29.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "EducationalPlatform.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T22:40:09.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Level.cs",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Level.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform.Core\\Entities\\Level.cs",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Level.cs",
+              "RelativeToolTip": "EducationalPlatform.Core\\Entities\\Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T22:14:48.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Exam.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform.Core\\Entities\\Exam.cs",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Exam.cs",
+              "RelativeToolTip": "EducationalPlatform.Core\\Entities\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T22:14:47.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Video.cs",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Video.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform.Core\\Entities\\Video.cs",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Video.cs",
+              "RelativeToolTip": "EducationalPlatform.Core\\Entities\\Video.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T22:14:47.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform.Core\\Entities\\Student.cs",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Student.cs",
+              "RelativeToolTip": "EducationalPlatform.Core\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T22:14:46.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform.Core\\Entities\\Teacher.cs",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Teacher.cs",
+              "RelativeToolTip": "EducationalPlatform.Core\\Entities\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T22:14:46.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lecture.cs",
+              "DocumentMoniker": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Lecture.cs",
+              "RelativeDocumentMoniker": "EducationalPlatform.Core\\Entities\\Lecture.cs",
+              "ToolTip": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\Entities\\Lecture.cs",
+              "RelativeToolTip": "EducationalPlatform.Core\\Entities\\Lecture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T22:14:45.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
