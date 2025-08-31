@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\projects\\EducationalPlatform\\EducationalPlatform.Api\\EducationalPlatform.Api.csproj": {}
+    "E:\\EDU PLATFORM\\EducationalPlatform.Api\\EducationalPlatform.Api.csproj": {}
   },
   "projects": {
-    "G:\\projects\\EducationalPlatform\\EducationalPlatform.Api\\EducationalPlatform.Api.csproj": {
+    "E:\\EDU PLATFORM\\EducationalPlatform.Api\\EducationalPlatform.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Api\\EducationalPlatform.Api.csproj",
+        "projectUniqueName": "E:\\EDU PLATFORM\\EducationalPlatform.Api\\EducationalPlatform.Api.csproj",
         "projectName": "EducationalPlatform.Api",
-        "projectPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Api\\EducationalPlatform.Api.csproj",
-        "packagesPath": "C:\\Users\\ziodn\\.nuget\\packages\\",
-        "outputPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Api\\obj\\",
+        "projectPath": "E:\\EDU PLATFORM\\EducationalPlatform.Api\\EducationalPlatform.Api.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "E:\\EDU PLATFORM\\EducationalPlatform.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ziodn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj": {
-                "projectPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj"
+              "E:\\EDU PLATFORM\\EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj": {
+                "projectPath": "E:\\EDU PLATFORM\\EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj"
               },
-              "G:\\projects\\EducationalPlatform\\EducationalPlatform.Service\\EducationalPlatform.Service.csproj": {
-                "projectPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Service\\EducationalPlatform.Service.csproj"
+              "E:\\EDU PLATFORM\\EducationalPlatform.Service\\EducationalPlatform.Application.csproj": {
+                "projectPath": "E:\\EDU PLATFORM\\EducationalPlatform.Service\\EducationalPlatform.Application.csproj"
               }
             }
           }
@@ -95,20 +95,20 @@
         }
       }
     },
-    "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj": {
+    "E:\\EDU PLATFORM\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj",
+        "projectUniqueName": "E:\\EDU PLATFORM\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj",
         "projectName": "EducationalPlatform.Core",
-        "projectPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj",
-        "packagesPath": "C:\\Users\\ziodn\\.nuget\\packages\\",
-        "outputPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\obj\\",
+        "projectPath": "E:\\EDU PLATFORM\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "E:\\EDU PLATFORM\\EducationalPlatform.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ziodn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -160,85 +160,20 @@
         }
       }
     },
-    "G:\\projects\\EducationalPlatform\\EducationalPlatform.Data\\EducationalPlatform.Data.csproj": {
+    "E:\\EDU PLATFORM\\EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Data\\EducationalPlatform.Data.csproj",
-        "projectName": "EducationalPlatform.Data",
-        "projectPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Data\\EducationalPlatform.Data.csproj",
-        "packagesPath": "C:\\Users\\ziodn\\.nuget\\packages\\",
-        "outputPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Data\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\ziodn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj",
+        "projectUniqueName": "E:\\EDU PLATFORM\\EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj",
         "projectName": "EducationalPlatform.Infrastructure",
-        "projectPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\ziodn\\.nuget\\packages\\",
-        "outputPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Infrastructure\\obj\\",
+        "projectPath": "E:\\EDU PLATFORM\\EducationalPlatform.Infrastructure\\EducationalPlatform.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "E:\\EDU PLATFORM\\EducationalPlatform.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ziodn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -253,11 +188,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj": {
-                "projectPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj"
+              "E:\\EDU PLATFORM\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj": {
+                "projectPath": "E:\\EDU PLATFORM\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj"
               },
-              "G:\\projects\\EducationalPlatform\\EducationalPlatform.Data\\EducationalPlatform.Data.csproj": {
-                "projectPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Data\\EducationalPlatform.Data.csproj"
+              "E:\\EDU PLATFORM\\EducationalPlatform.Data\\EducationalPlatform.Data.csproj": {
+                "projectPath": "E:\\EDU PLATFORM\\EducationalPlatform.Data\\EducationalPlatform.Data.csproj"
+              },
+              "E:\\EDU PLATFORM\\EducationalPlatform.Service\\EducationalPlatform.Application.csproj": {
+                "projectPath": "E:\\EDU PLATFORM\\EducationalPlatform.Service\\EducationalPlatform.Application.csproj"
               }
             }
           }
@@ -317,20 +255,20 @@
         }
       }
     },
-    "G:\\projects\\EducationalPlatform\\EducationalPlatform.Service\\EducationalPlatform.Service.csproj": {
+    "E:\\EDU PLATFORM\\EducationalPlatform.Service\\EducationalPlatform.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Service\\EducationalPlatform.Service.csproj",
-        "projectName": "EducationalPlatform.Service",
-        "projectPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Service\\EducationalPlatform.Service.csproj",
-        "packagesPath": "C:\\Users\\ziodn\\.nuget\\packages\\",
-        "outputPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Service\\obj\\",
+        "projectUniqueName": "E:\\EDU PLATFORM\\EducationalPlatform.Service\\EducationalPlatform.Application.csproj",
+        "projectName": "EducationalPlatform.Application",
+        "projectPath": "E:\\EDU PLATFORM\\EducationalPlatform.Service\\EducationalPlatform.Application.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "E:\\EDU PLATFORM\\EducationalPlatform.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ziodn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -344,7 +282,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\EDU PLATFORM\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj": {
+                "projectPath": "E:\\EDU PLATFORM\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

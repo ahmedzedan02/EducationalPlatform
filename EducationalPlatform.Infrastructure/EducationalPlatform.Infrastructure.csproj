@@ -8,7 +8,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\EducationalPlatform.Core\EducationalPlatform.Core.csproj" />
-      <ProjectReference Include="..\EducationalPlatform.Data\EducationalPlatform.Data.csproj" />
+      <ProjectReference Include="..\EducationalPlatform.Service\EducationalPlatform.Application.csproj" />
     </ItemGroup>
 
     <ItemGroup>
@@ -23,7 +23,6 @@
 
     <ItemGroup>
       <Folder Include="Migrations\" />
-      <Folder Include="Repositories\" />
     </ItemGroup>
 
 </Project>

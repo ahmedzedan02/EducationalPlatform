@@ -17,7 +17,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\EducationalPlatform.Infrastructure\EducationalPlatform.Infrastructure.csproj" />
-      <ProjectReference Include="..\EducationalPlatform.Service\EducationalPlatform.Service.csproj" />
+      <ProjectReference Include="..\EducationalPlatform.Service\EducationalPlatform.Application.csproj" />
     </ItemGroup>
 
 </Project>

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj": {}
+    "E:\\EDU PLATFORM\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj": {}
   },
   "projects": {
-    "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj": {
+    "E:\\EDU PLATFORM\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj",
+        "projectUniqueName": "E:\\EDU PLATFORM\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj",
         "projectName": "EducationalPlatform.Core",
-        "projectPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj",
-        "packagesPath": "C:\\Users\\ziodn\\.nuget\\packages\\",
-        "outputPath": "G:\\projects\\EducationalPlatform\\EducationalPlatform.Core\\obj\\",
+        "projectPath": "E:\\EDU PLATFORM\\EducationalPlatform.Core\\EducationalPlatform.Core.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "E:\\EDU PLATFORM\\EducationalPlatform.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ziodn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

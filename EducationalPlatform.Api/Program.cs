@@ -1,4 +1,6 @@
+using EducationalPlatform.Core.Interfaces;
 using EducationalPlatform.Infrastructure;
+using EducationalPlatform.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
@@ -18,7 +20,8 @@ public class Program
         builder.Services.AddSwaggerGen();
        builder.Services.AddDbContext<AppDbContext>(options =>
        options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
-        
+        builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
         var app = builder.Build();
 
         // Configure the HTTP request pipeline.

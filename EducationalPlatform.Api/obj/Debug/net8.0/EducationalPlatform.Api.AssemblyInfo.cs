@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EducationalPlatform.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba468cc33d388667f451a72f4aa5294d16b506a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c29d7a9aba010a345ecb9c6c3ab8ca56865e5d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EducationalPlatform.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EducationalPlatform.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

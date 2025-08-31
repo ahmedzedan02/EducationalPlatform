@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationalPlatform.Api", "EducationalPlatform.Api\EducationalPlatform.Api.csproj", "{74655F04-7B51-43C1-9360-9EC37D32205D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationalPlatform.Infrastructure", "EducationalPlatform.Infrastructure\EducationalPlatform.Infrastructure.csproj", "{6379D2F5-20A8-4600-876C-46E2C1D88519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationalPlatform.Service", "EducationalPlatform.Service\EducationalPlatform.Service.csproj", "{CCBF6A87-25FD-4C9D-9F4A-526551444D0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationalPlatform.Application", "EducationalPlatform.Service\EducationalPlatform.Application.csproj", "{CCBF6A87-25FD-4C9D-9F4A-526551444D0D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationalPlatform.Core", "EducationalPlatform.Core\EducationalPlatform.Core.csproj", "{97A8869E-5476-40D2-92F8-04F7A5A6E8B9}"
 EndProject
