@@ -8,7 +8,8 @@ namespace EducationalPlatform.Core.Interfaces
 {
     public interface IUnitOfWork : IDisposable
     {
-        IStudentRepository Students { get; }
+        IGenericRepository<T> Repository<T>() where T : class;
+        ILectureRepository Lectures { get; }
         Task<int> CompleteAsync();
     }
 }

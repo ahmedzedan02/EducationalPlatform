@@ -7,7 +7,8 @@ using EducationalPlatform.Core.Entities;
 
 namespace EducationalPlatform.Core.Interfaces
 {
-     public interface IStudentRepository : IGenericRepository<Student>
+    public interface ILectureRepository : IGenericRepository<Lecture>
     {
+        Task<IEnumerable<Lecture>> GetLecturesByLevelAsync(int levelId);
     }
 }

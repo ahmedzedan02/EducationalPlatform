@@ -16,11 +16,7 @@ public class AppDbContext : IdentityDbContext<ApplicationUser>
     {
         base.OnModelCreating(builder);
 
-        builder.Entity<Lecture>()
-            .HasOne(l => l.Video)
-            .WithOne(v => v.Lecture)
-            .HasForeignKey<Video>(v => v.LectureId);
-
+       
     }   
     public DbSet<Student> Students { get; set; }  
 

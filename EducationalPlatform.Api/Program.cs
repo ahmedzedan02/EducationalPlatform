@@ -1,3 +1,4 @@
+using EducationalPlatform.Application.Handlers.Lectures;
 using EducationalPlatform.Core.Interfaces;
 using EducationalPlatform.Infrastructure;
 using EducationalPlatform.Infrastructure.Repositories;
@@ -21,6 +22,13 @@ public class Program
        builder.Services.AddDbContext<AppDbContext>(options =>
        options.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
         builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+        builder.Services.AddScoped<ILectureRepository, LectureRepository>();
+        builder.Services.AddMediatR(cfg =>
+    cfg.RegisterServicesFromAssembly(typeof(GetLecturesByLevelHandler).Assembly));
+
+        builder.Services.AddScoped<ILectureRepository, LectureRepository>();
+
 
         var app = builder.Build();
 
